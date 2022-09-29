@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ovs-H
+- My mother country is Russia
+- Now I'm studying Python 
